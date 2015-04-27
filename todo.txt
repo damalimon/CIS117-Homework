@@ -1,3 +1,20 @@
+Chapters:
+2     - [Done] Michael
+3     - [Done] Bronwyn
+5     - [Done] Bronwyn
+7     - [Done] Bronwyn | Michael
+9     - 
+10    - Michael
+11    - Bronwyn
+13    - 
+17    - Michael
+18    - Bronwyn
+19    - 
+
+Final - Group
+
+
+
 Chapter 2
 -----------
 (30 points) Chapter 2 Pursue (page 73)
