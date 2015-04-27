@@ -1,29 +1,29 @@
 # CIS117-Homework
 Chapters:
 -----------
-2     - [Done] Michael
+* Chapter 2     - [Done] Michael
 
-3     - [Done] Bronwyn | Michael
+* Chapter 3     - [Done] Bronwyn | Michael
 
-5     - [Done] Bronwyn
+* Chapter 5     - [Done] Bronwyn
 
-7     - [Done] Bronwyn | Michael
+* Chapter 7     - [Done] Bronwyn | Michael
 
-9     - Damali
+* Chapter 9     - Damali
 
-10    - Michael
+* Chapter 10    - Michael
 
-11    - Bronwyn
+* Chapter 11    - Bronwyn
 
-13    - Damali
+* Chapter13    - Damali
 
-17    - Michael
+* Chapter 17    - Michael
 
-18    - Bronwyn
+* Chapter 18    - Bronwyn
 
-19    - Damali
+* Chapter 19    - Damali
 
-Final - Group
+* Final - Group
 
 
 
