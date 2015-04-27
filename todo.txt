@@ -3,13 +3,13 @@ Chapters:
 3     - [Done] Bronwyn
 5     - [Done] Bronwyn
 7     - [Done] Bronwyn | Michael
-9     - 
+9     - Damali
 10    - Michael
 11    - Bronwyn
-13    - 
+13    - Damali
 17    - Michael
 18    - Bronwyn
-19    - 
+19    - Damali
 
 Final - Group
 
