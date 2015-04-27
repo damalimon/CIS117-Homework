@@ -1,6 +1,6 @@
 Chapters:
 2     - [Done] Michael
-3     - [Done] Bronwyn
+3     - [Done] Bronwyn | Michael
 5     - [Done] Bronwyn
 7     - [Done] Bronwyn | Michael
 9     - Damali
